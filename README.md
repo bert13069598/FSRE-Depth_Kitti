@@ -45,6 +45,7 @@ Monocular Depth Estimation](https://arxiv.org/pdf/2108.08829.pdf)
 1. 데이터 다운로드
 - Kitti 회원가입
 - 2011_09_26_drive_0001 2011_09_26_drive_0001 ~ 다운로드
+- [ref Kitti data](https://github.com/MasazI/DeepLearning_TensorFlow/tree/master/KITTI/data)
 2. 소스코드 및 사전학습 모델 다운로드
 
 3. 필요한 종속성 설치
